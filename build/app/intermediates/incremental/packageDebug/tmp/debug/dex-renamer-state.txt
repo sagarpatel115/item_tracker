@@ -1,0 +1,4 @@
+#Thu Jun 27 15:11:38 IST 2024
+base.0=C\:\\Users\\Lenovo\\StudioProjects\\item_tracker\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
